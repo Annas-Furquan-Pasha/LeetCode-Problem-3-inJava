@@ -3,4 +3,4 @@ The length of longest substring without repeating characters.
 
 It is leetcode Problem #3
 
-the length of longest substring without repeating characters in Java
+The length of longest substring without repeating characters in Java
